@@ -17,7 +17,6 @@
 
 #include "face.h"
 
-// hello world
 
 void key_callback(GLFWwindow*, int, int, int, int);
 void mouse_callback(GLFWwindow*, double, double);
